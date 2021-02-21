@@ -26,7 +26,7 @@ Begin VB.Form Form11
       Top             =   1560
       Width           =   1815
    End
-   Begin VB.Label Label1 
+   Begin VB.Label Label1
       Alignment       =   2  'Center
       Appearance      =   0  'Flat
       BackColor       =   &H80000005&
