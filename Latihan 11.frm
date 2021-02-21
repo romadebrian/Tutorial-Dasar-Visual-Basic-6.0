@@ -1,6 +1,6 @@
 VERSION 5.00
 Begin VB.Form Form11 
-   Caption         =   "Form11"
+   Caption         =   "Pemanggilan Procedure"
    ClientHeight    =   3030
    ClientLeft      =   120
    ClientTop       =   450
