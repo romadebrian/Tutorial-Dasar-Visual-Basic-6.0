@@ -40,7 +40,7 @@ Awal:
     Image1.Picture = Nothing
     FileName = InputBox("Ketikkan path dan nama file gambar :", "Open Picture File", FileName)
     If FileName <> "" Then
-        Image1.Picture = LoadPicture(FileName)
+        Image1.Picture = LoadPicture(FileName) 'jika error coba matikan break errornya terlebih dahulu dengan cara klik kanan di text code -> toggle -> Break on unhandled error
     End If
     Exit Sub
 AdaError:
